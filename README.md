@@ -1,6 +1,8 @@
 # Привет, меня зовут Александр!
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=835980749616597837" height="280" width="236" frameborder="0" scrolling="no" ></iframe>
+<div align="center">
+  <img height="300" width="600" src="https://assets.pinterest.com/ext/embed.html?id=835980749616597837"/>
+</div>
 
 <!--
 **Aleksandeeer/Aleksandeeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
