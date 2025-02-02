@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate" />
   <img width="12" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="12" />    
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/WinForms_Logo.png" height="40" alt="C#" />
 </div>
 
 <br>
